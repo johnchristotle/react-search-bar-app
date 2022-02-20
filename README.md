@@ -4,6 +4,10 @@ A unique search bar that filters through data. Built with React, JavaScript, Mat
 ## Getting Started with App
 
 This project was bootstrapped with [Create React App]
+Please install all dependancies before runing this app.
+e.g
+yarn add @material-ui/core
+yarn add @material-ui/icons
 
 ### Available Scripts
 
